@@ -30,7 +30,7 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": ""
+      "page": 3
     },
     {
       "type": "page-title",
