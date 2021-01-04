@@ -40,6 +40,14 @@
       "page": 2,
       "collection_id": "5ff35ac769274c73fcf0a911:collections:testpag:/testpag",
       "sort": "views"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 4,
+      "page": 3,
+      "collection_id": "5ff35ac769274c73fcf0a911:collections:testpag:/testpag",
+      "sort": "views"
     }
   ]
 }
