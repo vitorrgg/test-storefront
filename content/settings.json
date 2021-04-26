@@ -7,7 +7,7 @@
     "custom": "niche-baby"
   },
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/text58.png",
+  "logo": "/img/uploads/baby-logo.png",
   "name": "My Shop",
   "short_name": "My Shop",
   "lang": "pt_br",
@@ -18,6 +18,6 @@
   "secondary_color": "#6d6875",
   "icon": "/img/icon.png",
   "store_id": 1056,
-  "description": "My PWA Shop \n\ne5989b\n\n6d6875",
+  "description": "My PWA Shop ",
   "large_icon": "/img/large-icon.png"
 }
